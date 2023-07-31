@@ -1,5 +1,8 @@
 _repo: The-crisis-vol-1-no-1-b-A-record-of-the-darker-races_71222
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71222-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/226
     wikipedia: https://en.wikipedia.org/wiki/W._E._B._Du_Bois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71222#The-crisis-vol-1-no-1-b-A-record-of-the-darker-races
 gutenberg_issued: '2023-07-18'
 identifiers:
   gutenberg: '71222'
